@@ -1,0 +1,36 @@
+h1{
+	font-family: EB GARAMOND;
+	text-align: center;
+	color: pink;
+	background-color:purple;
+	padding: 20px;
+}
+h2{
+	font-family: EB GARAMOND;
+	text-align: center;
+	color: blue;
+	background-color: pink;
+	padding: 20px;
+}
+hr{
+	border: 2px solid black;
+}
+.special_para{
+	text-align: center;
+	font-family:EB GARAMOND;
+	font-size: 100px;
+	color:white;
+background-color: blue;
+}
+p{
+	text-align: center;
+	font-size: 100px;
+color: white;
+background-color: black;
+	font-family: EB GARAMOND;
+}
+.special_para1{
+	text-align: center;
+	font-family: EB GARAMOND;
+	color: white;
+	font-size: 80px;
